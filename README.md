@@ -6,6 +6,7 @@ The objective of this project is to develop a drug classification system that us
 
 ## Repository Contents
 ### Data
+* [Data (CSV)](https://github.com/christinevu510/Drug-Classification/releases/tag/data)
 * [FDA Drug Label API](https://api.fda.gov/drug/label.json)
 
 ### Notebook
