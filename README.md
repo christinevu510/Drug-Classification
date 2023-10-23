@@ -17,8 +17,12 @@ The objective of this project is to develop a drug classification system that us
 * Data Ingestion
 * Data Preprocessing
 * Exploratory Data Analysis
-* Topic Modeling (LDA)
-* Classification Modeling (Fuzzy C-Means, K-Means, and DBSCAN)
+* Topic Modeling
+  * Latent Dirichlet Allocation (LDA)
+* Classification Modeling
+  * Fuzzy C-Means
+  * K-Means
+  * DBSCAN
 
 ### Technologies
 * Python
