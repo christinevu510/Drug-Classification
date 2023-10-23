@@ -25,5 +25,5 @@ The objective of this project is to develop a drug classification system that us
 
 ### Contributors
 * Mackenzie Carter
-* Vanessa Salazar
+* Vannesa Salazar
 * Christine Vu
