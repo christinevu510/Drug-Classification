@@ -6,12 +6,20 @@ The objective of this project is to develop a drug classification system that us
 
 ## Repository Contents
 ### Data
-* [Drug Data](https://api.fda.gov/drug/label.json)
+* [FDA Drug Label API](https://api.fda.gov/drug/label.json)
 
 ### Notebook
 * [Notebook](https://github.com/christinevu510/Drug-Classification/blob/main/Notebook.ipynb)
 
 ## Project Description
+### Methods
+* Data Ingestion
+* Data Preprocessing
+* Data Visualization
+* Exploratory Data Analysis
+* Topic Modeling
+* Classification Modeling
+
 ### Technologies
 * Python
 
