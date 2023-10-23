@@ -15,7 +15,6 @@ The objective of this project is to develop a drug classification system that us
 ### Methods
 * Data Ingestion
 * Data Preprocessing
-* Data Visualization
 * Exploratory Data Analysis
 * Topic Modeling
 * Classification Modeling
