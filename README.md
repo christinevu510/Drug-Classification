@@ -1,5 +1,6 @@
 # Drug Classification
 This is the final project for the University of San Diego’s ADS 509 Applied Text Mining course.
+
 Created by Mackenzie Carter, Vanessa Salazar, and Christine Vu.
 
 ## Description
